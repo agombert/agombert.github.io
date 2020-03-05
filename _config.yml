@@ -96,7 +96,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-     # An array of links to social media profiles
+    - "https://twitter.com/agomberto"
+    - "https://www.linkedin.com/in/arnault-gombert-37a1a1a0/" # An array of links to social media profiles
 
 # Analytics
 analytics:
