@@ -97,7 +97,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links:
     - "https://twitter.com/agomberto"
-    - "https://www.linkedin.com/in/arnault-gombert-37a1a1a0/" # An array of links to social media profiles
+  	- "https://www.linkedin.com/in/arnault-gombert-37a1a1a0/" # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Arnault Gombert"
-  avatar           : "/assets/images/ag.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ag.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data and NLP Scientist"
   location         : "Barcelona, Spain"
   email            : "arnault.gombert@pm.me"
