@@ -113,9 +113,6 @@ author:
   location         : "Barcelona, Spain"
   email            : "arnault.gombert@pm.me"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:arnault.gombert@pm.me
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://agombert.github.io"
