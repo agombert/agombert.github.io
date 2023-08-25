@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/ag.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NLP and Data Scientist"
   location         : "Barcelona, Spain"
-  email            : "arnault.gombert@pm.me"
+  email            : "aombert@pm.me"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
