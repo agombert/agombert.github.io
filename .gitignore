@@ -1,4 +1,3 @@
-*.DS_Store
-*/.DS_Store
+# Ignorer tous les fichiers .DS_Store
 .DS_Store
-*/*/.DS_Store
+**/.DS_Store
