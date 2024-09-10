@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About"
-    url: https://agombert.github.io
+    url: /about.md
   - title: "Talks"
     url: https://agombert.github.io
   - title: "Papers"
     url: https://agombert.github.io
   - title: "Blog"
-    url: docs/posts/
+    url: docs/_posts/
