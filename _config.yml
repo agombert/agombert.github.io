@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Arnault Gombert"
   avatar           : "/assets/images/ag.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NLP and Data Scientist"
-  location         : "Barcelona, Spain"
-  email            : "aombert@pm.me"
+  bio              : "NLP, Machine Learning Engineer"
+  location         : "Toulouse, France - work remotely"
+  email            : "github.outpour226@simplelogin.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
