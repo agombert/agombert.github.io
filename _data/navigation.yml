@@ -2,9 +2,9 @@
 main:
   - title: "About"
     url: https://agombert.github.io
-  - title: "Codes"
+  - title: "Talks"
     url: https://agombert.github.io
-  - title: "Publications"
+  - title: "Papers"
     url: https://agombert.github.io
   - title: "Blog"
-    url: https://agombert.github.io/docs/_posts/
+    url: docs/posts/
